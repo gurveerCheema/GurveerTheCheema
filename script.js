@@ -48,7 +48,7 @@ function magicFuncPart2(){
 
 let imgArr=[
     "https://wimsolutions.files.wordpress.com/2017/10/website3.jpg?w=2064&h=1288",
-    "Add a heading.png",
+    "https://media.istockphoto.com/id/1133769470/vector/javascript-concept-banner-header.jpg?s=170667a&w=0&k=20&c=GnKoYotlaI01K45BrUOrQtek4AKmJyGlbzXe2p_ZitE=",
     "https://th.bing.com/th/id/R.584c07fef9ca459094162f332ad5c5e7?rik=2tsxNWHPDtRfSg&riu=http%3a%2f%2fblog.salesmanago.com%2fwp-content%2fuploads%2f2015%2f04%2fDepositphotos_65204039_original.jpg&ehk=ZAVtCi%2brmevG5CvfSbSeqrwTN2tkctJkFacvM3h%2b17I%3d&risl=&pid=ImgRaw&r=0",
     "https://cdn-images-1.medium.com/max/1200/1*pE2fOVDikEUwiQJlh4ggzg.jpeg"
    
